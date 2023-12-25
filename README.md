@@ -1,4 +1,3 @@
-[![Github All Releases](https://img.shields.io/github/downloads/Killers0992/VRChatTools/total.svg)]()
 # VRChat Tools
 
 <p align="center">
